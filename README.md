@@ -1,4 +1,4 @@
-# NLW_01 ECOLETA discover❤
+# Parte 02 da trilha ignite de ReactJS da RocketSeat❤
 Aplicação com intuito de ajudar você a descartar seu lixo de forma certa e bem perto de você.<br/>
 
 ## 📃 PÁGINAS:
