@@ -45,7 +45,9 @@ Editar
 git clone https://github.com/nailsonlima/02_dtmoney_react-ignite
 
 # Acesse a pasta do projeto
-cd 02_dtmoney_react-ignite
+| Comando                         | Descrição                             |
+| -----------------------------| ---------------------------------------- |
+| `cd 02_dtmoney_react-ignite` | Acessa o diretório do projeto            |
 
 # Instale as dependências & Rode o servidor de desenvolvimento
 | Comando         | Descrição                                                  |
