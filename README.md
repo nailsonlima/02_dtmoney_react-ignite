@@ -1,34 +1,62 @@
-# Parte 02 da trilha ignite de ReactJS da RocketSeat❤
-Aplicação com intuito de ajudar você a descartar seu lixo de forma certa e bem perto de você.<br/>
+💰 DT Money
+Aplicação de controle financeiro, desenvolvida na Trilha Ignite ReactJS da Rocketseat ❤, com foco em gerenciar suas entradas e saídas de forma simples, rápida e intuitiva.
 
-## 📃 PÁGINAS:
-<p>Home: Página principal onde pode ser visualizado um resumo geral de suas finanças!</p>
-<img width='70%' src="./gitassets/index.png"/>
-<p>Modal: Utilizada para inserção de novas transações.</p>
-<img width='70%' src="./gitassets/modal.png"/>
+🧠 Funcionalidades
+✅ Cadastro de transações (entradas e saídas).
 
+📊 Resumo financeiro em tempo real.
 
-## 🛠️ Construído com:
+🔎 Filtro e busca por transações.
 
-* [ ReactJs ](https://pt-br.legacy.reactjs.org/) - Biblioteca.
-* [ TypeScript ](https://www.typescriptlang.org/) - Tipagem.
+🗂️ Persistência dos dados no localStorage.
 
-## 🛠️ Como rodar na sua máquina:
+🖥️ Layout e Páginas
+🏠 Dashboard
+Visão geral das transações e resumo financeiro.
 
-<p>Abra um terminal na pasta do projeto e execute os seguintes comandos...</p>
-|                 Comando | Descrição                                                                     |
-| ----------------------: | ----------------------------------------------------------------------------- |
-|         `npm install`   | Instalação dos modulos necessarios para execução do projeto                   |
-|           `npm start`   | Executa o projeto e o abre em uma guia no seu navegador padrão                |
-<span>Fique a vontade para usar/alterar/melhorar o código</span>
+<img width="70%" src="./gitassets/index.png"/>
+➕ Modal de Cadastro
+Formulário para adicionar uma nova transação.
 
-## ✒️ Autores
+<img width="70%" src="./gitassets/modal.png"/>
+🚀 Tecnologias Utilizadas
+⚛️ React JS – Biblioteca para construção da UI.
 
-* **Nailson** - [Dev](https://github.com/nailsonlima)
+🔷 TypeScript – Tipagem estática.
 
-## 🎁 Expressões de gratidão
+💅 Styled-Components – Estilização dos componentes.
 
-* Obrigado pelo seu tempo!
+📦 Axios – Comunicação com API simulada (JSON Server).
 
----
-Feito com ❤️ por [Nailson Lima](https://gist.github.com/nailsonlima)
+🛠️ React Icons – Biblioteca de ícones.
+
+♻️ Custom Hook – Gerenciamento global de transações.
+
+🔥 Vite – Build tool super rápido.
+
+🛠️ Como rodar o projeto localmente
+bash
+Copiar
+Editar
+# Clone este repositório
+git clone https://github.com/nailsonlima/02_dtmoney_react-ignite
+
+# Acesse a pasta do projeto
+cd 02_dtmoney_react-ignite
+
+# Instale as dependências
+npm install
+
+# Rode o servidor de desenvolvimento
+npm run dev
+Acesse: http://localhost:5173
+
+🤝 Contribuição
+Sinta-se à vontade para utilizar, melhorar e contribuir com este projeto. Toda sugestão é bem-vinda! 🚀
+
+👨‍💻 Autor
+Feito com dedicação por:
+Nailson Lima 🚀
+
+🎯 Agradecimento
+Obrigado por acessar este projeto! 💜
