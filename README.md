@@ -47,11 +47,11 @@ git clone https://github.com/nailsonlima/02_dtmoney_react-ignite
 # Acesse a pasta do projeto
 cd 02_dtmoney_react-ignite
 
-# Instale as dependências
-npm install
-
-# Rode o servidor de desenvolvimento
-npm run dev
+# Instale as dependências & Rode o servidor de desenvolvimento
+| Comando         | Descrição                                                  |
+| ----------------| ---------------------------------------------------------- |
+| `npm install`   | Instala as dependências                                    |
+| `npm run dev`   | Executa o projeto no modo desenvolvimento                  |
 Acesse: http://localhost:5173
 
 🤝 Contribuição: <br/>
