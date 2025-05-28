@@ -1,4 +1,4 @@
-💰 DT Money
+# 💰 DT Money
 Aplicação de controle financeiro, desenvolvida na Trilha Ignite ReactJS da Rocketseat ❤, com foco em gerenciar suas entradas e saídas de forma simples, rápida e intuitiva.
 
 🧠 Funcionalidades
