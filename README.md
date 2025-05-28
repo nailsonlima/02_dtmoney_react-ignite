@@ -1,7 +1,7 @@
 # 💰 DT Money
 Aplicação de controle financeiro, desenvolvida na Trilha Ignite ReactJS da Rocketseat ❤, com foco em gerenciar suas entradas e saídas de forma simples, rápida e intuitiva.
 
-🧠 Funcionalidades
+🧠 Funcionalidades<br/><br/>
 ✅ Cadastro de transações (entradas e saídas).
 
 📊 Resumo financeiro em tempo real.
@@ -10,16 +10,17 @@ Aplicação de controle financeiro, desenvolvida na Trilha Ignite ReactJS da Roc
 
 🗂️ Persistência dos dados no localStorage.
 
-🖥️ Layout e Páginas
+🖥️ Layout e Páginas<br/>
 🏠 Dashboard
 Visão geral das transações e resumo financeiro.
 
 <img width="70%" src="./gitassets/index.png"/>
-➕ Modal de Cadastro
+➕ Modal de Cadastro <br/>
 Formulário para adicionar uma nova transação.
 
 <img width="70%" src="./gitassets/modal.png"/>
-🚀 Tecnologias Utilizadas
+🚀 Tecnologias Utilizadas <br/><br/>
+
 ⚛️ React JS – Biblioteca para construção da UI.
 
 🔷 TypeScript – Tipagem estática.
@@ -51,12 +52,12 @@ npm install
 npm run dev
 Acesse: http://localhost:5173
 
-🤝 Contribuição
+🤝 Contribuição: <br/>
 Sinta-se à vontade para utilizar, melhorar e contribuir com este projeto. Toda sugestão é bem-vinda! 🚀
 
-👨‍💻 Autor
+👨‍💻 Autor: <br/>
 Feito com dedicação por:
 Nailson Lima 🚀
 
-🎯 Agradecimento
+🎯 Agradecimento: <br/>
 Obrigado por acessar este projeto! 💜
