@@ -11,11 +11,11 @@ Aplicação de controle financeiro, desenvolvida na Trilha Ignite ReactJS da Roc
 🗂️ Persistência dos dados no localStorage.
 
 🖥️ Layout e Páginas<br/>
-## 🏠 Dashboard <br/>
+🏠 Dashboard <br/>
 Visão geral das transações e resumo financeiro.
 
 <img width="70%" src="./gitassets/index.png"/>
-## ➕ Modal de Cadastro <br/>
+➕ Modal de Cadastro <br/> 
 Formulário para adicionar uma nova transação.
 
 <img width="70%" src="./gitassets/modal.png"/>
